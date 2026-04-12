@@ -56,17 +56,6 @@ Currently pursuing my B.Tech in CSE, I'm passionate about leveraging C, Java, Py
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohitmantri05/Mohitmantri05/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohitmantri05/Mohitmantri05/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohitmantri05/Mohitmantri05/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohitmantri05&icon=5&color=0)](https://visitcount.itsvg.in)
 
