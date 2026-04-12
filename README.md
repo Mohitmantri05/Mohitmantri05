@@ -16,6 +16,12 @@ Currently pursuing my B.Tech in CSE, I'm passionate about leveraging C, Java, Py
 ![](https://github-readme-stats.vercel.app/api?username=Mohitmantri05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohitmantri05&theme=dark&hide_border=false)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohitmantri05&icon=5&color=0)](https://visitcount.itsvg.in)
