@@ -4,7 +4,7 @@
 # 💫 About Me:
 Currently pursuing my B.Tech in CSE, I'm passionate about leveraging C, Java, Python, and DSA to solve real-world challenges. Ready to dive into exciting opportunities and contribute fresh perspectives to the world of technology. Always learning, always growing!
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohitmantri05&label=Profile%20views&color=0e75b6&style=flat" alt="Mohitmantri05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohitmantri05&label=Profile%20views&color=0e75b6&style=flat" alt="Mohitmantri05" /> </p>
 
 <h1 align="center"></h1>
 
