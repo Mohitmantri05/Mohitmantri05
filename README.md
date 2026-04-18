@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mohit Mantri
-**B.Tech CSE Student || Tech Enthusiast || Code. Learn. Build.**
+**B.Tech CSE Student || Tech Enthusiast || Code. Learn. Build.** 
 
 # 💫 About Me:
 Currently pursuing my B.Tech in CSE, I'm passionate about leveraging C, Java, Python, and DSA to solve real-world challenges. Ready to dive into exciting opportunities and contribute fresh perspectives to the world of technology. Always learning, always growing!
